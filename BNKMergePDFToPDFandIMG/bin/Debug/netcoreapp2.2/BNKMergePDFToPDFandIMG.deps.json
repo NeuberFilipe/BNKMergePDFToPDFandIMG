@@ -1,0 +1,99 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "27fd1454db81e5587640cb2e5c7864942c76ab77"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "BNKMergePDFToPDFandIMG/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Pdf.Net.Core": "16.4.0.47"
+        },
+        "runtime": {
+          "BNKMergePDFToPDFandIMG.dll": {}
+        }
+      },
+      "Syncfusion.Compression.Net.Core/16.4.0.47": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "16.4200.0.47",
+            "fileVersion": "16.4200.0.47"
+          }
+        }
+      },
+      "Syncfusion.Licensing/16.4.0.47": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "16.4.0.47",
+            "fileVersion": "16.4.0.47"
+          }
+        }
+      },
+      "Syncfusion.Pdf.Net.Core/16.4.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Net.Core": "16.4.0.47",
+          "Syncfusion.Licensing": "16.4.0.47",
+          "System.Text.Encoding.CodePages": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {
+            "assemblyVersion": "16.4200.0.47",
+            "fileVersion": "16.4200.0.47"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.0.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BNKMergePDFToPDFandIMG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Compression.Net.Core/16.4.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pRDzpl8h3Z889Ycsn6lcpipGvLUVZQanSwZaz/PGUeuOMN/fop8RCBnSf/JLFQqHpyklY0DqjEcSt5A99uQz8Q==",
+      "path": "syncfusion.compression.net.core/16.4.0.47",
+      "hashPath": "syncfusion.compression.net.core.16.4.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/16.4.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2xXYev2e2hWDdwUQ1/zPDTvY9p76fcvh52cmTNNY7TF5FzeqHpD3KxTbZUBmWPO0xMXs39c/yGyzBYiaEEYLvg==",
+      "path": "syncfusion.licensing/16.4.0.47",
+      "hashPath": "syncfusion.licensing.16.4.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Pdf.Net.Core/16.4.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vAiVvHF1JmukpyLd/IZ/NVlJOtV+2KsGDKLCRCleLxClTFije9GMHGWEcHCH++D3lEXZAxC9PVqF8lQ113a1Zg==",
+      "path": "syncfusion.pdf.net.core/16.4.0.47",
+      "hashPath": "syncfusion.pdf.net.core.16.4.0.47.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-epF1P00AFbqPy5jZx3fpEn5qwlBDZ+dck71xYc/jLibfY6BtoFKOqoj84YHcQWV9HcWb7M13aVJ61XCdK8/3XA==",
+      "path": "system.text.encoding.codepages/4.4.0",
+      "hashPath": "system.text.encoding.codepages.4.4.0.nupkg.sha512"
+    }
+  }
+}

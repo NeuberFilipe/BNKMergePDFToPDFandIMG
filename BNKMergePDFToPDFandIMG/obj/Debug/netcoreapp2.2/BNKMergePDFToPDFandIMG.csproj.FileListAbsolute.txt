@@ -1,0 +1,11 @@
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\bin\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.deps.json
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\bin\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.runtimeconfig.json
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\bin\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.runtimeconfig.dev.json
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\bin\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.dll
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\bin\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.pdb
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\obj\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.csproj.CoreCompileInputs.cache
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\obj\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.AssemblyInfoInputs.cache
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\obj\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.AssemblyInfo.cs
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\obj\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.dll
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\obj\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.pdb
+C:\Users\neuber.coelho\source\repos\BNKMergePDFToPDFandIMG\BNKMergePDFToPDFandIMG\obj\Debug\netcoreapp2.2\BNKMergePDFToPDFandIMG.csprojAssemblyReference.cache
